@@ -2,7 +2,7 @@
 
 <p>Yazıyı Sese Çevirme ve Sesli metin okuyucu ile metin seslendirme veya yazıyı sese çevirme işlerinizi kolayca yapabilirsiniz. Yapay zeka seslendirme ile oluşturulan ses sentezleyicileri günümüzde çok daha başarılı sonuçlar vermektedir. Yıllar süren makine öğrenmeleri ile eğitilen sesleri kullanmak ve yazıyı sese çevirmek için metni girin ve seslendir butonuna basın. Hepsi bu kadar...</p>
 
-<a href="https://seslimetin.com">Metin Seslendirme Premium seslen ve MP3 Olarak indirmek için tıklayın </a>
+<a href="https://seslimetin.com">Metin Seslendirme Premium Sesler ve MP3 Olarak indirmek için tıklayın </a>
 
 <h2>
       Sesli Metin Okuyucu Nedir?
@@ -40,7 +40,6 @@
     <h3>Konuşma Dilinin Yüklenmesi</h3>
     <p>Kullandığınız pc veya mobil cihazda standart olarak sunulan konuşma dilleri dışında farklı diller için destek
       sağlayabilirsiniz. Çok kolay bir kaç adımda nasıl yapılacağına aşağıda gözatın.</p>
-
         <h4>
           Windows Sesli Konuşma Ayarları
         </h4>
