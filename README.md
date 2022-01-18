@@ -27,7 +27,6 @@
       <li>Kitap okumak için yazıyı seslendirme sayesinde aynı zamanda daha fazla okuma
         gerçekleştrebilirsiniz. </li>
     </ol>
-
     <h2>Yazıyı Sese Çevirmek İçin Nelere Dikkat Etmek Gerekir?</h2>
     <p>Metin seslendirme için aşağıdakilere dikkat etmeniz daha etkili sonuçlar almanız için önemlidir.</p>
     <ul>
