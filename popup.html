@@ -1,0 +1,61 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Sesli Metin Okuyucu seslimetin.com</title>
+	<meta charset="UTF-8">
+	<style type="text/css">
+		button {
+			padding: 0px;
+			border: 1px solid rgb(200,200,200);
+			-webkit-border-radius: 5px;
+			-webkit-appearance: button;
+			-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+		}
+		button img {
+			vertical-align: bottom;
+		}
+		
+		#advancedlink {
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			font-size: 2em;
+			margin: 20px;
+		}
+		
+		#advancedsection {
+			display: none;
+		}
+	</style>
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
+     -->
+    <script src="narrate.js"></script>
+	<script src="popup.js"></script>
+  </head>
+  <body style="width: 250px;">
+	<div style=" margin: 20px;">
+		<h3>Sesli Metin</h3>
+		<button id="narrate"><img height="64px" src="img/play.png" title="Seslendir" alt="Speak"></button>
+		<button id="stop"><img height="64px" src="img/stop.png" title="Durdur" alt="Stop"></button>
+		<button id="pauseresume"><img height="64px" id="pauseresume_img" src="img/pause.png" title="Beklet-Devam Et" alt="Pause/Resume"></button>
+		<div style="margin-top: 20px;">
+			<a id="advancedlink" href="#" >Ayarlar</a>
+		</div>
+		<div id="advancedsection">
+			<hr>
+			Örnek Metin
+			<textarea rows="5" id="testText">Sesli Metin ile Türkçe ve bir çok dilde profesyonel metin seslendirme. Seslendirme ihtiyaçlarınız için doğal, akıcı ve mükemmel uyum.</textarea>
+			<button id="testbutton"><div style="padding:15px">SESLENDİR</div></button>
+			<div style="margin-top: 20px; font-size: 16px;">
+				<a href="https://seslimetin.com" target="blank">PREMIUM METİN SESLENDİRME VE SESİ MP3 OLARAK İNDİRMEK İÇİN TIKLAYIN</a>
+			</div>
+			
+		</div>
+	</div>
+
+  </body>
+</html>
+
